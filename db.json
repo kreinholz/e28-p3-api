@@ -29,23 +29,6 @@
         },
         {
             "id": 3,
-            "title": "Summer Plans",
-            "date": "2019-07-07",
-            "image": "machine-learning-record-of-course-completion-2019-06-17.png",
-            "content": "<p>So, this summer, after a fairly strenuous Spring 2019 semester at Harvard Extension School, I thought I'd ease back and take it easy before resuming my Computer Science studies in the Fall.</p>
-            <p>So much for that, I ended up taking a very interesting (but challenging) Machine Learning class through Coursera. I finished it last month. I won't go into depth about the topic, but it opened up a whole new world of Linear Algebra and vectorized solutions to Computer Science challenges in place of simple \"for\" loops. I'm looking forward to optimizing some of my old (and new) code with the help of Linear Algebra libraries wherever possible!</p>            
-            <p>I've changed my Fall study plans a bit. Now, I'm hoping to get into CSCI E-14A, Building Interactive Web Applications for Data Analysis, because it uses Python and involves incorporating Machine Learning algorithms into web applications. Perfect follow-up to what I studied this summer! Then, next Spring (2020) I want to take CSCI E-39, Modular Design Patterns with React, because, well, I've been exposed to both Vue and Angular in previous HES classes, and I've been learning React through Udemy and like it a lot! I think React will become my JavaScript front-end library of choice, in fact, largely replacing the use of HTML templating engines.</p>     
-            <p>I'm still proofreading/editing \"A.I.M.E.E.,\" my latest novel, and am currently on version 3. I've incorporated some Machine Learning language into the book based on my recent studies, which I hope will enhance the realism a bit. I've also decided to take the plunge into hiring a sensitivity reader to proofread my manuscript, as I wrote the book outside of my own cultural and religious background (an enormously rewarding, albeit challenging, thing to do), and I want to ensure I \"get it right.\" So \"A.I.M.E.E.\" won't be rushed to publication, but my hope is a better end product that I can really be proud of.</p>            
-            <p>Lastly, I unexpectedly got a job offer! I've now been back to work for 2 weeks, doing a full time job as a Human Resources Specialist. Not my target career of web/software development, but a completely unplanned yet very welcome opportunity. It's a \"term\" position that only lasts until October, after which I don't know what will happen, but it's nice to earn a paycheck again after retiring from my Air Force career last year. My doctors are also starting to make some headway into finally cracking the enigma of my medical issues, although I'm trying to temper my expectations and not get my hopes up too much. So far, they've found lots of autoimmunity, which I think can account for most of my symptoms. So, with the right treatment, I may regain some functionality and reduce my pain levels. That seems like almost too much to hope for, so again I'm tempering my expectations, but I'm cautiously optimistic that my health will improve in the future, or that I'll at least know \"what\" is wrong with my body.</p>            
-            <p>And with that, dear friends, have a wonderful remainder of your summer (or winter, if you're in the Southern Hemisphere!), and I'll be sure to post about any future publications, either in the software arena (I have several ideas I'd like to write and push to Github) or in creative writing (namely, \"A.I.M.E.E.,\" although I've always got a story idea or two floating around in my head).</p>",
-            "categories": [
-                "school",
-                "work",
-                "writing"
-            ]
-        },
-        {
-            "id": 4,
             "title": "JavaScript, Python, and Databases!",
             "date": "2019-03-28",
             "image": "chat-getting-closer-2019-03-22-overlap-fixed-iphone.png",
@@ -68,14 +51,7 @@
             "id": 1,
             "commenter": "Kevin Reinholz",
             "date": "2019-11-16",
-            "body": "It's funny, because when I wrote this blog post, I claimed to \"be familiar with Vue.js\", but after getting through roughly half of \"Single-Page Applications and Interfaces with Vue.js\", I want to go back and tell my younger self, \"You know nothing, Jon Snow!\" Oh, to get a little exposure to Vue in an introductory JavaScript course and think you know it! Ha! Vue is way more complex, and cooler, that I could've imagined at the time. It's also a lot more similar to Angular than I could've known. It's a robust, complete front-end framework, and though its market share might lag behind React and Angular, it's every bit as capable. I'm glad I took a course on it!",
-            "postId": 5
-        },
-        {
-            "id": 2,
-            "commenter": "Kevin Reinholz",
-            "date": "2019-11-16",
-            "body": "So, my course plans changed yet again, this time due to the cancellation of \"Modular Design Patterns with React\". I'm instead registered for CSCI E-15, \"Web Server Frameworks with Laravel/PHP\" next spring, which I think will actually work out better, because it'll get me back onto the server-side, and leave me pretty well-rounded in terms of front-end and back-end web development. I'll have worked with Node.js and Python-based servers, as well as modern PHP, in additional to client-side JavaScript technologies, to include the popular frameworks Vue and Angular.",
+            "body": "This chat app would've been so much easier with a Vue.js, React, or Angular front-end instead of vanilla JavaScript!",
             "postId": 3
         }
     ],
